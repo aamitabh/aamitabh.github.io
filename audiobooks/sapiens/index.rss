@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sapiens</title>
-    <link>http://www.k2fh.com/podcasts/everything/index.html</link>
+    <link>https://github.com/aamitabh/aamitabh.github.io/blob/master/audiobooks/sapiens/index.html</link>
     <description>Sapiens: A Brief History of Humankind</description>
     <itunes:summary>Sapiens: A Brief History of Humankind</itunes:summary>
     
@@ -16,7 +16,7 @@
     
     
     
-    <itunes:image href="http://www.k2fh.com/podcasts/everything/cover.jpg"/>
+    <itunes:image href="https://github.com/aamitabh/aamitabh.github.io/blob/master/audiobooks/sapiens/cover.jpg"/>
     
   
   
@@ -27,9 +27,9 @@
       <title>Part One: The Cognitive Revolution</title>
       <itunes:author>Yuval Noah Harari</itunes:author>
     
-      <itunes:image href="http://www.k2fh.com/podcasts/everything/cover.jpg"/>
-      <enclosure url="http://www.k2fh.com/podcasts/everything/01%20Part%20One_%20The%20Cognitive%20Revolution.mp3" length="36456957" type="audio/mp3"/>
-      <link>http://www.k2fh.com/podcasts/everything/01%20Part%20One_%20The%20Cognitive%20Revolution.mp3</link>
+      <itunes:image href="https://github.com/aamitabh/aamitabh.github.io/blob/master/audiobooks/sapiens/cover.jpg"/>
+      <enclosure url="https://github.com/aamitabh/aamitabh.github.io/blob/master/audiobooks/sapiens/01%20Part%20One_%20The%20Cognitive%20Revolution.mp3" length="36456957" type="audio/mp3"/>
+      <link>https://github.com/aamitabh/aamitabh.github.io/blob/master/audiobooks/sapiens/01%20Part%20One_%20The%20Cognitive%20Revolution.mp3</link>
       <guid isPermaLink="false">bd2a624a2b2ff0c520f25200a0047f50b218850f</guid>
       <pubDate>Fri, 19 Oct 2018 23:03:06 -0700</pubDate>
       <itunes:duration>2276</itunes:duration>
@@ -40,9 +40,9 @@
       <title>The Tree of Knowledge</title>
       <itunes:author>Yuval Noah Harari</itunes:author>
     
-      <itunes:image href="http://www.k2fh.com/podcasts/everything/cover.jpg"/>
-      <enclosure url="http://www.k2fh.com/podcasts/everything/02%20The%20Tree%20of%20Knowledge.mp3" length="44067987" type="audio/mp3"/>
-      <link>http://www.k2fh.com/podcasts/everything/02%20The%20Tree%20of%20Knowledge.mp3</link>
+      <itunes:image href="https://github.com/aamitabh/aamitabh.github.io/blob/master/audiobooks/sapiens/cover.jpg"/>
+      <enclosure url="https://github.com/aamitabh/aamitabh.github.io/blob/master/audiobooks/sapiens/02%20The%20Tree%20of%20Knowledge.mp3" length="44067987" type="audio/mp3"/>
+      <link>https://github.com/aamitabh/aamitabh.github.io/blob/master/audiobooks/sapiens/02%20The%20Tree%20of%20Knowledge.mp3</link>
       <guid isPermaLink="false">539ac3e4e9f54cc556526f52e21fce0f11203481</guid>
       <pubDate>Fri, 19 Oct 2018 23:02:43 -0700</pubDate>
       <itunes:duration>2752</itunes:duration>
