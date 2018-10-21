@@ -1,0 +1,4 @@
+# Config values
+podcast_title = "Sapiens"
+podcast_description = "Sapiens: A Brief History of Humankind"
+public_url_base = "https://aamitabh.github.io/audiobooks/sapiens"
